@@ -10,4 +10,3 @@ while num!= "q"
 	print "enter a number (q to quit): "
 	num = gets.chomp
 end
-
